@@ -1,2 +1,2 @@
-# backgammon_game
+# Backgammon_Game
 My Second Game Dev Project
