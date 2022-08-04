@@ -2,6 +2,7 @@ import pygame
 from sys import exit
 from random import randint, choice
 import time
+import copy
 
 
 # Data - Example Dict - Collunm Rank Number: [How Many Pieces On Colunm, What Color is Owned by Column, Positional Location Tuple of W H of base piece, Top Or Bottom]
@@ -386,7 +387,7 @@ def startup():
     if new_game:
         gamepiece.empty()
         global Game_Data
-        Game_Data = Setup_Data
+        Game_Data = copy.deepcopy(Setup_Data)
         for k, v in Game_Data.items():
             for i in range(v[0]):
                 x = v[2][0]
