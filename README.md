@@ -1,6 +1,9 @@
 # Backgammon_Game
 __My Second Game Dev Project__
 
+Started July 15th 2022
+Finished August 3rd 2022
+
 Check out my website for more info and executable
 -------> https://reuvi-israeli.itch.io/backgammon-pygame
 
