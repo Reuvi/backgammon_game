@@ -1,5 +1,15 @@
 # Backgammon_Game
-My Second Game Dev Project
-Check out my website for executable
+__My Second Game Dev Project__
 
-Its a backgammon game very cool and fun to play with
+Check out my website for more info and executable
+-------> https://reuvi-israeli.itch.io/backgammon-pygame
+
+Licence for Sunset-Landscape.mp3 and Sunset-Landscape.wav:
+
+  Sunset Landscape by Keys of Moon | https://soundcloud.com/keysofmoon
+
+  Music promoted by https://www.chosic.com/free-music/all/
+
+  Creative Commons CC BY 4.0
+
+  https://creativecommons.org/licenses/by/4.0/
