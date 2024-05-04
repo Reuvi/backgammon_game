@@ -2,7 +2,7 @@
 __My Second Game Dev Project__
 
 
-Check out my website for more info and executable
+Check out my gamepage for more info and executable
 -------> https://reuvi-israeli.itch.io/backgammon-pygame
 
 Licence for Sunset-Landscape.mp3 and Sunset-Landscape.wav:
